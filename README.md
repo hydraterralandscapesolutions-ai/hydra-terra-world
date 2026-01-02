@@ -2,12 +2,19 @@
 
 Welcome to the HYDRA-TERRA Landscape Solutions website repository!
 
-## 🚀 Quick Setup
+## 👉 **[START_HERE.md](START_HERE.md)** 👈
 
-**Want to get your website live?** Start here:
+**New to this?** Click the link above - it explains everything you need to know!
 
-1. **[QUICK_START.md](QUICK_START.md)** - Deploy in 5 minutes with GitHub Pages
-2. **[SETUP_GUIDE.md](SETUP_GUIDE.md)** - Complete guide for both GitHub Pages and Google Sites
+---
+
+## 🚀 Quick Setup Guides
+
+**Want to get your website live?** Choose a guide:
+
+1. **[START_HERE.md](START_HERE.md)** - Start here if you're new! Explains all your options
+2. **[QUICK_START.md](QUICK_START.md)** - Deploy in 5 minutes with GitHub Pages
+3. **[SETUP_GUIDE.md](SETUP_GUIDE.md)** - Complete guide for both GitHub Pages and Google Sites
 
 ## ⚠️ Important: Google Sites Information
 
